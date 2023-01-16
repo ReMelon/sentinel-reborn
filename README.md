@@ -48,6 +48,8 @@ Now go to the code and open .env
 
 Change the values to your application IDs and bot tokens
 
+Go to your terminal and run "node index.js"
+
     
 ## License
 
